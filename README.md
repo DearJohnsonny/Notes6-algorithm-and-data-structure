@@ -145,4 +145,7 @@ $$
 如果像这样不断出队，队头左边的空间失去作用，那队列的容量岂不是越来越小了？
 
 用数组实现的队列可以采用**循环队列**的方式来维持队列容量的恒定
-![image](https://user-images.githubusercontent.com/111955215/196080588-67375ce5-c024-458a-8638-80c2db0d4cad.png)
+
+<div align=center>
+<img src="https://user-images.githubusercontent.com/111955215/196080588-67375ce5-c024-458a-8638-80c2db0d4cad.png" width="600">
+</div>
