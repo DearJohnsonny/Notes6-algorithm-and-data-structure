@@ -351,3 +351,6 @@ HashMap数组的每一个元素不仅是一个Entry对象，还是一个链表�
 <div align=center>
 <img src="https://user-images.githubusercontent.com/111955215/196098881-c3e5344f-44d4-40ac-9516-4276417f722e.png" width="1200">
 </div>
+
+堆的插入操作是单一节点的“上浮”，堆的删除操作是单一节点的“下沉”，这两个操作的平均交换次数都是堆高度的一半，所以时间复杂度是O(logn)。但构建堆的时间复杂度却并不是O(nlogn)，而是O(n)。这涉及数学推导过程。
+
