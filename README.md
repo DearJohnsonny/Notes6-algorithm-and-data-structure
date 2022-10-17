@@ -11,14 +11,14 @@
 树是相对复杂的数据结构，其中比较有代表性的是二叉树，由它又衍生出了二叉堆之类的数据结构。
 
 <div align=center>
-<img src="https://user-images.githubusercontent.com/111955215/196073872-e4931893-ec3c-4e95-9768-82c006165ee1.png" width="600">
+<img src="https://user-images.githubusercontent.com/111955215/196073872-e4931893-ec3c-4e95-9768-82c006165ee1.png" width="300">
 </div>
 
 ### 图
 图是更为复杂的数据结构，因为在图中会呈现出多对多的关联关系
 
 <div align=center>
-<img src="https://user-images.githubusercontent.com/111955215/196073895-96964919-f6cf-455b-bb97-639f70d19967.png" width="600">
+<img src="https://user-images.githubusercontent.com/111955215/196073895-96964919-f6cf-455b-bb97-639f70d19967.png" width="300">
 </div>
 
 ### 其他数据结构
