@@ -332,4 +332,15 @@ HashMap数组的每一个元素不仅是一个Entry对象，还是一个链表�
 
 #### 插入节点
 
+<div align=center>
+<img src="https://user-images.githubusercontent.com/111955215/196098021-f742b0a7-4e9d-4185-9f36-e0ce254e409c.png" width="1500">
+</div>
 
+#### 删除节点
+二叉堆删除节点的过程和插入节点的过程正好相反，所删除的是处于堆顶的节点。例如删除最小堆的堆顶节点1。
+
+<div align=center>
+<img src="https://user-images.githubusercontent.com/111955215/196098307-1649dba8-a3dd-404b-bf05-dcd27b08775d.png" width="1500">
+</div>
+
+其实插入和删除都是通过逐个比较来实现的
